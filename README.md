@@ -1,4 +1,4 @@
-###Gaussian Elimination - README
+#Gaussian Elimination - README
 Program ini adalah implementasi metode eliminasi Gauss untuk menyelesaikan sistem persamaan linear. Metode eliminasi Gauss adalah salah satu metode untuk menyelesaikan sistem persamaan linear dengan mengubah matriks koefisien menjadi matriks segitiga atas (upper triangular matrix) dan kemudian melakukan substitusi mundur untuk mencari solusinya.
 
 Cara Penggunaan
